@@ -1,69 +1,75 @@
-<h1 align="center">Hey 👋 What's Up? I'm Sachithra Indrachapa</h1>
+# GitHub README
 
-<h3 align="center">🎓 Software Engineering Undergraduate at SLIIT – Sri Lanka Institute of Information Technology</h3>
+<!-- Header Section -->
+<h1 align="center"><font face="Arial">Hi 👋, I'm Sachithra Indrachapa</font></h1>
+<h3 align="center"><font face="Arial">
+  <a href="https://www.linkedin.com/in/sachithra-indrachapa/" target="_blank" rel="noreferrer">Sachithra</a> is a passionate Software Engineering undergraduate at SLIIT, learning Cloud and DevOps along with MERN stack development. Reach out if you'd like to collaborate!
+</font></h3>
 
----
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux" />
-</div>
+<!-- Languages and Tools Section -->
+<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
----
+<h4><font size="+1" face="Tahoma">Frontend & UI:</font></h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+</p>
 
-### 🧠 About Me
+<h4><font size="+1" face="Tahoma">Backend & Database:</font></h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</p>
 
-- 🌱 Currently self-learning **DevOps**, diving into Docker, Kubernetes & CI/CD  
-- 💻 Building **Xaphora Dress – Online Clothing Store** using MERN Stack  
-- 💬 Ask me about **React, Express, MongoDB, Firebase, Kotlin**  
-- 📫 Reach me at: **sachithrai1003@gmail.com**  
-- 🧠 I'm also exploring **Next.js, Prisma, Tailwind CSS**  
-- ⚡ Fun fact: **I debug best with music 🎧**
+<h4><font size="+1" face="Tahoma">Mobile Development:</font></h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+</p>
 
----
+<h4><font size="+1" face="Tahoma">Dev Tools:</font></h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+</p>
 
-### 🌐 Connect with Me
+<!-- GitHub Stats -->
+<h3 align="left"><font size="+2" face="Verdana">GitHub Stats:</font></h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sachithra03&label=Profile%20views&color=0e75b6&style=flat" alt="sachithra03" />
+</p>
 
-<div align="center">
+<p>
+  - 🌱 I’m currently learning <b>Next.js, Docker, Kubernetes </b> </br>
+  - 💻 Building <b>Xaphora Dress – Online Clothing Store  </b></br>
+  - 💬 Ask me about <b>React.js, Express.js, MongoDB, Firebase, Kotlin  </b></br>
+  - 📫 Email: <b>sachithrai1003@gmail.com  </b></br>
+  - ⚡ Fun fact: <b>I drink code and debug for breakfast. </b>
+</p>
+
+<!-- Contact Section -->
+<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
+<p align="left">
   <a href="https://linkedin.com/in/sachithra-indrachapa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://instagram.com/sachithra_03" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://fb.com/sachithra.indrachapa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sachithra03&theme=dracula&hide_border=false&border_radius=5&mode=daily" height="150" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=sachithra03&theme=dracula&column=3&margin-w=15&margin-h=15" height="150" alt="GitHub Trophies" />
-</div>
-
----
-
-### 👾 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sachithra03/sachithra03/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sachithra03/sachithra03/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sachithra03/sachithra03/output/pacman-contribution-graph.svg">
-</picture>
+  <a href="https://instagram.com/sachithra_03" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
