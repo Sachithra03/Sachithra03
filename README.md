@@ -63,13 +63,13 @@
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
-  <a href="https://linkedin.com/in/sachithra-indrachapa" target="_blank">
+  <a href="https://www.linkedin.com/in/sachithra-indrachapa-9150b8190/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/sachithra.indrachapa" target="_blank">
+  <a href="https://www.facebook.com/sachithra.indrachapa.1?mibextid=wwXIfr&mibextid=wwXIfr" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/sachithra_03" target="_blank">
+  <a href="https://www.instagram.com/sachithra_03?igsh=MXB0b2F1d21hYWo0&utm_source=qr" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
