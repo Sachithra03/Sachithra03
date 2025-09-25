@@ -33,6 +33,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
 </p>
 
 <h4><font size="+1" face="Tahoma">Dev Tools:</font></h4>
